@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/Artboard 2.png
-    image_alt: Team working together
+    image_alt: Team launching ideas
     title: Cultivate. Accelerate. Innovate.
     content: >-
       Cultivating airmen through accelerating change based on innovative
