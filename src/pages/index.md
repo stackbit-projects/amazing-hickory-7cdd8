@@ -24,10 +24,7 @@ sections:
       - title: Addictive Manufacturing
         image: images/Artboard 1.svg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: ' Implementing advances in 3D-Printing, Robotics, and Data Analysis; Liberty Spark positions the Air Force at the cutting edge of technology solving day-to-day pain points in everyday work by enhancing capability.'
         actions:
           - label: Learn More
             url: /features
