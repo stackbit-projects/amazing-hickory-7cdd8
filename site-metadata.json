@@ -17,10 +17,6 @@
                 "type": "action"
             },
             {
-                "label": "Features",
-                "url": "/features"
-            },
-            {
                 "label": "Pricing",
                 "url": "/pricing"
             },
