@@ -76,7 +76,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Let Us Supercharge Your Idea
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Squadron representatives are waiting to assist you today.
     actions:
       - label: Get Started
         url: /signup
