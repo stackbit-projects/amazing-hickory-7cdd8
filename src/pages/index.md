@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.svg
+    image: images/melodic-hedgehog.svg
     image_alt: Team launching ideas
     title: Cultivate. Accelerate. Innovate.
     content: >-
