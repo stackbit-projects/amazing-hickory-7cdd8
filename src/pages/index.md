@@ -85,7 +85,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - title: lorem-ipsum
+  - title: Frequently Asked Questions
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
