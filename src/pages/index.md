@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: About Us
+    title: What We Offer
     subtitle: >-
       Airmen empowering other airmen to accelerate innovative ideas for todays
       warfighter
