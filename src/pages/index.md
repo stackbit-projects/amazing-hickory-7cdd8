@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Cultivate. Accelerate. Innovate.
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Cultivating airmen through accelerating change based on innovative
+      thinking.
     actions:
       - label: Learn More
         url: /features
