@@ -35,9 +35,10 @@ sections:
         image: images/web-dev.svg
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          We have personnel with the knowledge to build in-house web
+          development, SharePoint communication sites, and phone application
+          solutions, or leverage industry partnerships to meet the needs of our
+          Warfighter's communication needs.
         actions:
           - label: Learn More
             url: /features
