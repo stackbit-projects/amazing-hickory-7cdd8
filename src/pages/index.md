@@ -43,9 +43,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Liberty Spark leverages advances in AR/VR technology to find
+          innovative ways to meet Warfighter's training, marketing, and
+          operational needs.
         actions:
           - label: Learn More
             url: /features
