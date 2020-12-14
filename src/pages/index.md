@@ -40,7 +40,7 @@ sections:
           - label: Learn More
             url: /features
       - title: Virtual and Augmented Reality
-        image: images/feature3.png
+        image: images/vr-ar.svg
         image_alt: App user profile preview
         content: >-
           Liberty Spark leverages advances in AR/VR technology to find
