@@ -31,7 +31,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
+      - title: Web & Mobile App Development
         image: images/web-dev.svg
         image_alt: App users welcoming a new member
         content: >-
