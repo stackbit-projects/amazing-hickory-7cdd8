@@ -21,7 +21,7 @@ sections:
       Airmen empowering other airmen to accelerate innovative ideas for todays
       warfighter
     features:
-      - title: The Best Feature of Your Services
+      - title: Addictive Manufacturing
         image: images/Artboard 1.svg
         image_alt: App preview on a phone and tablet
         content: >-
