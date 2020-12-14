@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Artboard 2.png
     image_alt: App preview
     title: Cultivate. Accelerate. Innovate.
     content: >-
