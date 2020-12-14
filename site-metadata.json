@@ -27,7 +27,7 @@
             },
             {
                 "label": "Who We Are",
-                "url": "lorem-ipsum",
+                "url": "about",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
