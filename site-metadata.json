@@ -9,6 +9,14 @@
                 "url": "/"
             },
             {
+                "label": "Who We Are",
+                "url": "about-us",
+                "primary": false,
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Features",
                 "url": "/features"
             },
@@ -24,14 +32,6 @@
                 "label": "Sign Up",
                 "url": "/signup",
                 "primary": true
-            },
-            {
-                "label": "Who We Are",
-                "url": "about-us",
-                "primary": false,
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
